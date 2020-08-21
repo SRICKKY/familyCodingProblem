@@ -16,3 +16,5 @@ relationships and more.
 ``` python3 problem1.py ```
 
 #### One person name in the tree  is "Lavnya" but in the problem is "Lavanya", I am using problem name "Lavanya"
+
+## You can run unittest also to verify the behavior
