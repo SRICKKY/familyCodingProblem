@@ -10,7 +10,7 @@ relationships and more.
  of family tree(adding members to family tree) and It can be called by using FamilyTree().construct() and it will return
  a family object that contains all the members.
 
-### Problem's solution is in the folder called problem1234Solution
+### Problem's solution is in the folder called solution
 <p> To run a prolems solution just run the script with python3. Ex. for problem1: 
 
 ``` python3 problem1.py ```
